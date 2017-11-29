@@ -1,0 +1,29 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "A GraphQL example app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduebrasil/graphql-example.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Eduardo Brasil",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/eduebrasil/graphql-example/issues"
+  },
+  "homepage": "https://github.com/eduebrasil/graphql-example#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "node-fetch": "^1.7.3",
+    "xml2js": "^0.4.19"
+  }
+}
